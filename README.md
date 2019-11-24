@@ -36,3 +36,11 @@ Screenshot 3
 ![Entry Screeenshots](/screenshots/Screenshot3.png)
 Screenshot 4
 ![Entry Screeenshots](/screenshots/Screenshot4.png)
+
+Raw Designs:
+Design 1
+![Entry Screeenshots](/RawDesign/raw1.png)
+Design 2
+![Entry Screeenshots](/RawDesign/raw2.png)
+Design 3
+![Entry Screeenshots](/RawDesign/raw3.png)
