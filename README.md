@@ -37,7 +37,7 @@ Screenshot 3
 Screenshot 4
 ![Entry Screeenshots](/screenshots/Screenshot4.png)
 Screenshot 5
-![Entry Screeenshots](/screenshots/Screenshot5.png
+![Entry Screeenshots](/screenshots/Screenshot5.png)
 
 Raw Designs:
 Design 1
